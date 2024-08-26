@@ -35,5 +35,8 @@ We know that the CDF shows the cumulative probability distribution of pixel inte
 <img src="images/4.png" width="600"/>
 
 
+As it can be seen from the plots, the image's histogram has been equalized.
+
+
 Finally we apply the CDF to the image to perform histogram equalization, then display the transformed image and its new histogram. We see that the equalized image has improved contrast, with details more easily distinguishable. Also, the transformed histogram is more spread out across the intensity range, indicating a wider distribution of pixel values.
 
